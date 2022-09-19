@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="/images/web_development.gif" />
 <div align="center" size='20px'>
  <h3>
- An passionate full-stack developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ An passionate Back-end developer with a specialization in JAVA backend development. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
 </div>
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <h2> Connect with me  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
 
 
-<a href="https://www.linkedin.com/in/ritesh-aravindra-378273229/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/jagatjit-barik-3b0293209/"><img  height="50px" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <!-- <a href="https://codesandbox.io/u/"><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg"/></a>
 <a href="https://medium.com/"><img  height="50px" width="50px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="medium"/></a>
  -->
