@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
   
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =25px width = 25px> , I'm Jagatjit Barik</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height =55px width = 55px> , I'm Jagatjit Barik</h1>
 <p align='center'> </h1>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Java+Back-end+developer." /></a>
