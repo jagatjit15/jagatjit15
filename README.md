@@ -1,7 +1,7 @@
 ![MasterHead](https://www.learnupon.com/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif)
   
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jagatjit+Barik+%F0%9F%91%8B;Computer+Science+Student;Back-End+Developer;Problem+Solver;front+End+Developer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jagatjit+Barik+%F0%9F%91%8B;Computer+Science+Student;Back-End+Developer;Problem+Solver;front+End+Developer;Open-Source+Enthusiast" alt="Headline" />
     </div>
     
 <p align="right"> <h4>Profile Views :-</h4> <img src="https://komarev.com/ghpvc/?username=jagatjit15&label=Profile%20views&color=0e75b6&style=flat"
