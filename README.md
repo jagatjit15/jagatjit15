@@ -7,6 +7,15 @@
 <p align="right"> <h4>Profile Views :-</h4> <img src="https://komarev.com/ghpvc/?username=jagatjit15&label=Profile%20views&color=0e75b6&style=flat"
     alt="jagatjit15" /> 
   </p>
+  
+  <h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagatjit-barik-3b0293209/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
+  </a>
+
+</p>
 
 <div align="center" size='20px'>
  <h3>
@@ -67,13 +76,6 @@
   <br/>
 
 
-<h2 align="center">You can reach me at :alien:</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jagatjit-barik-3b0293209/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="My LinkedIn" height="50" width="50">
-  </a>
-
-</p>
   
  
